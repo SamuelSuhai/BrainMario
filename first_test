@@ -1,4 +1,4 @@
-""" Brain Mario BCI code comes here TEST VERSION """
+""" Brain Mario BCI code comes here TEST VERSION. from https://github.com/chkothe/pylsl/blob/master/examples/ReceiveData.py """
 
 from pylsl import StreamInlet, resolve_stream
 
